@@ -23,7 +23,8 @@ body {
   font-family: Inter;
   width: 100%;
   height: 2453px;
-  background-color: #CFA6A61C;
+  background: #dba6a61c;
+
 }
 
 @font-face {
@@ -38,7 +39,7 @@ body {
 }
 .hHero{
   font-weight: 1000;
-  font-size: xx-large;
+  font-size: bold;
 }
 nav{
   width: 100%;
