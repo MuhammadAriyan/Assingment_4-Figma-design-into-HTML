@@ -1,4 +1,3 @@
-
 # First Web Design Project
 
 This project is based on a Figma design, which I converted into code as part of my **Assignment 4**.
